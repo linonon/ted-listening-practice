@@ -13,7 +13,11 @@ Think about ~~the~~ **how** slow people were **to** reacted to ~~the~~ warnings 
 We fail to ~~reacted to~~ recognize the ~~dangerous~~ danger, because we are `reluctant` to rethink the situation.
 
 > pandemic: 疫情
+>
 > democracy: 民主, 政体
+>
 > peril: 极大危险
+>
 > climate change: 气候变化
+>
 > reluctant: 不情愿
