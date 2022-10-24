@@ -68,3 +68,15 @@ By the time we finally reach the summit, the sun is setting.
 We are stranded, with no food, no water, no cell phone, and no energy for the hike down.
 
 - `hike`: 徒步旅行, 价格上升
+
+There's a name for this kind of mistake, it's called "`escalation` of commitment to a losing course of action." It happens when you make an initial investment of time or money, and then you find out ~~that~~ it might **have** be**en** a bad choice, but instead of rethinking it, you double down and invest more. You want to prove to yourself and everyone else that you made a good decision. Escalation of commitment explains so many familar **examples of businesses plummeting**.
+
+- `escalation`: 迅速增加
+
+Blockbuster, Blackberry, Kodak. Leaders just kept simmering in their slow-boiling pots, failing to rethink their strategies. Escalation of `commitment` explains why you might have stuck~~ed~~ **around too long** in a miserable jobs, why you've probably wait**ed** for a table way too long at a restaurant and why you **might** have ~~hang~~ hung on **to** a **bad** relationship **long** after your friend**s** ~~tell~~ encourage**d** you to leave.
+
+- `commitment`: 忠诚, 献身
+
+It's hard to admit that we were wrong and that we might have even wasted years of our lives. So we try to tell ourself, "If I try harder, I can turn this around."
+
+We live in a culture that worships at the altar of hustle and prays to the high priest of grit.
