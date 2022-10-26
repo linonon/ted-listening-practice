@@ -116,4 +116,15 @@ My mind was awake, but my muscles were still sleep. I did back smacks and belly 
 
 - `prematurely`: 过早地
 
-You **are** probably experienced identity foreclosure. Maybe you were too attached to an early idea of what school you'd go to, what kind of person you'd marry, or what career you'd choose. Foreclosing on one identity is like following **a** GPS that gives you the right directions to the wrong destination. After my fresh year of college, I rethought my identity. I realize that diving ~~is~~ **was** a passion, not a purpose. My values were to grow and excel, and to contribute to helping my teammates grow and 
+You **are** probably experienced identity foreclosure. Maybe you were too attached to an early idea of what school you'd go to, what kind of person you'd marry, or what career you'd choose. Foreclosing on one identity is like following **a** GPS that gives you the right directions to the wrong destination. After my fresh year of college, I rethought my identity. I realize that diving ~~is~~ **was** a passion, not a purpose. My values were to grow and excel, and to contribute to helping my teammates grow and excel. Grow, excel, contribute. I didn't have to be a diver to grow, excel and contribute.
+
+Research suggest~~ed~~**s** that instead of foreclosing on one identity, we're better off trying on a range of possible selves. Retiring from diving freed me up to spend the summer doing psychology research and working as a diving coach. It also gave me time to concerntrate on my dorkiest hobby, performing as a magician. I'm still working on my sleight of hand. Open**ing** my mind to new identities opened new doors. Research showed me that I enjoyed creating knowledge, not just consuming it. Coaching and performing helped me see myself as a teacher and an entertainer. If that hadn't happened, I might not have become a psychologist and a professor, and I probably wouldn't be giving this TED talk.
+
+- `be better off doing`: 最好做...
+
+See, I'm an introvert, and when I first started teaching, I was afraid of public speaking. I had a mentor, Jane Dutton, who gave me some `invaluable` advice. She said, "You have to `unleash` your inner magician." So I turned my class into a live show.
+
+- `invaluable`: 极有用的
+- `unleash`: 释放出
+
+Before the first day, I memorized my students' names and backgrounds, and then, I mastered my routine.
