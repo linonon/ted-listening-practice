@@ -127,4 +127,10 @@ See, I'm an introvert, and when I first started teaching, I was afraid of public
 - `invaluable`: 极有用的
 - `unleash`: 释放出
 
-Before the first day, I memorized my students' names and backgrounds, and then, I mastered my routine.
+Before the first day, I memorized my students' names and backgrounds, and then, I mastered my routine. Those habits served me well. I started to relax more and I started to get good ratings. But just like with goals and identities, the routines that help us today can become the ruts we `get trapped in` tomorrow.
+
+- `get trapped in`: 陷入
+
+One day, I taught a class on the importance of rethinking, and  afterward, a student came up and said, "You know, you're not following your own principles." They say feedback is a gift, but right then, I wondered, "How do I return this?" I was teaching the same meterial, the same way, year after year. I didn't want to give up on a performance that was working. I had my act down.
+
+Even good habits can stand in the way of rethinking. There's a name for that too. It's called "cognitive entrenchment," where you get stuck in the way you've always done things.
